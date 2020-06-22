@@ -5,12 +5,12 @@ body {
   
   .topnav {
     overflow: hidden;
-    background-color: #405d27;
+    background-color: white;
   }
   
   .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #3f5c47;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -19,7 +19,7 @@ body {
   
   .topnav a:hover {
     background-color: #4CAF50;
-    color: black;
+    color: white;
   }
   
   .topnav a.active {
@@ -31,6 +31,9 @@ body {
   }
   .right{
       float:right;
+      margin:50px;
+      margin-left:10px;
+      padding:60px;
   }
   .konda-icon{
       width:50px;
